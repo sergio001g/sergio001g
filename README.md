@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **sergio.gomezc13@outlook.es**
 
-- ⚡ Fun fact **https://v0.dev/chat/h5u5eTIPfov?b=b_VSfGZ4Sw1Dn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
