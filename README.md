@@ -23,3 +23,12 @@ Hello, I'm sergio001g, I'm just starting out in this world but I would like to w
 ### Badges
 
 <a href="https://github.com/sergio001g" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001g&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sergio001g/sergio001g/output/snake.svg" alt="Snake animation" />
+
+###
