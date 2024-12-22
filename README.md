@@ -39,6 +39,13 @@ Hello, I'm sergio001g, I'm just starting out in this world but I would like to w
 </p>
 
 ---
+# QUIZ CULTURA GENERAL
+> Un poroyecto de js css ty
+
+
+---
+
+
 
 ### 📂 Repositorio JS css 
 <p align="center">
