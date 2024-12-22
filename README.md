@@ -40,5 +40,10 @@ Hello, I'm sergio001g, I'm just starting out in this world but I would like to w
 
 ---
 
-
+### 📂 Repositorio JS css 
+<p align="center">
+    <a href="https://github.com/sergio001g/preguntas.CSS-JS-TY">
+        <img src="https://img.shields.io/badge/Repositorio-MonedasCambiador-blue?style=for-the-badge&logo=github" alt="Repositorio">
+    </a>
+</p>
 
