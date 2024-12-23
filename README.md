@@ -69,3 +69,19 @@ Hello, I'm sergio001g, I'm just starting out in this world but I would like to w
         <img src="https://img.shields.io/badge/Repositorio-Graficos Estadisticos-blue?style=for-the-badge&logo=github" alt="Repositorio">
     </a>
 </p>
+
+
+# Calculadora
+> Un poroyecto js css ts
+
+
+---
+
+
+
+### 📂 Repositorio 
+<p align="center">
+    <a href="https://github.com/sergio001g/Calculadora-con-hoja-de-calculo-b-sico-">
+        <img src="https://img.shields.io/badge/Calculadora-blue?style=for-the-badge&logo=github" alt="Repositorio">
+    </a>
+</p>
