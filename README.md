@@ -40,7 +40,7 @@ https://hdoljkop5rqznmbt.vercel.app/
 https://hdoljkop5rqznmbt.vercel.app/
 https://hdoljkop5rqznmbt.vercel.app/
 https://hdoljkop5rqznmbt.vercel.app/
-#Pagina de Paletas 
+# Pagina de Paletas 
 https://rl6k9jtq1atw8ibi.vercel.app
 https://rl6k9jtq1atw8ibi.vercel.app/
 https://rl6k9jtq1atw8ibi.vercel.app/
