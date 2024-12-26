@@ -27,12 +27,12 @@ Hello, I'm sergio001g, I'm just starting out in this world but I would like to w
 
 
 # PORTAFOLIO 
-https://hph9nfqjhrbiul94.vercel.app/
-https://hph9nfqjhrbiul94.vercel.app/
-https://hph9nfqjhrbiul94.vercel.app/
-https://hph9nfqjhrbiul94.vercel.app/
-https://hph9nfqjhrbiul94.vercel.app/
-https://hph9nfqjhrbiul94.vercel.app/
+https://dignkez2f1epgwof.vercel.app/
+https://dignkez2f1epgwof.vercel.app/
+https://dignkez2f1epgwof.vercel.app/
+https://dignkez2f1epgwof.vercel.app/
+https://dignkez2f1epgwof.vercel.app/
+https://dignkez2f1epgwof.vercel.app/
 # TIENDAAA
 https://hdoljkop5rqznmbt.vercel.app/
 https://hdoljkop5rqznmbt.vercel.app/
