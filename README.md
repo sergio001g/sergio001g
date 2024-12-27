@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergio Gómez
 ====================================================================================================================================
-![MasterHead](https://img.freepik.com/free-vector/smoking-area-neon-sign-cigarette-with-smoke-round-night-bright-advertisement_1262-11915.jpg?t=st=1734658986~exp=1734662586~hmac=52192c4bbbb6e9a044ccc090d97e9f19049a03b17144b2f66cbecc21f22f0bbe&w=740)
+![MasterHead](https://wallpapercave.com/wp/wp9109383.jpg)
 
 Software development student
 ----------------------------
