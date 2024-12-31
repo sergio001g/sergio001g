@@ -41,12 +41,19 @@ https://hdoljkop5rqznmbt.vercel.app/
 https://hdoljkop5rqznmbt.vercel.app/
 https://hdoljkop5rqznmbt.vercel.app/
 # Pagina de Paletas 
-https://rl6k9jtq1atw8ibi.vercel.app
 https://rl6k9jtq1atw8ibi.vercel.app/
 https://rl6k9jtq1atw8ibi.vercel.app/
 https://rl6k9jtq1atw8ibi.vercel.app/
 https://rl6k9jtq1atw8ibi.vercel.app/
 https://rl6k9jtq1atw8ibi.vercel.app/
+https://rl6k9jtq1atw8ibi.vercel.app/
+#Sueldos.dev Ecuador 
+https://ti1tq7iw3zk2mawt.vercel.app/
+https://ti1tq7iw3zk2mawt.vercel.app/
+https://ti1tq7iw3zk2mawt.vercel.app/
+https://ti1tq7iw3zk2mawt.vercel.app/
+https://ti1tq7iw3zk2mawt.vercel.app/
+https://ti1tq7iw3zk2mawt.vercel.app/
 
 # MonedasCambiador
 
