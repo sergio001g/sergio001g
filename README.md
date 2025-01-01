@@ -1,11 +1,10 @@
-# Hola, soy Sergio Gómez
-
+# Hello, I'm Sergio Gómez
 
 ![MasterHead](https://wallpapercave.com/wp/wp9109383.jpg)
 
-### Desarrollador en formación 
+### Developer in training 
 
-> "Soñando con trabajar en grandes proyectos y equipos colaborativos."
+> "Dreaming of working on big projects and collaborative teams."
 
 ---
 
@@ -15,14 +14,14 @@
 
 ---
 
-- 🏡 Vivo en **Ecuador**
-- ✉️ Contacto: [sergio.gomeztr13@outlook.es](mailto:sergio.gomeztr13@outlook.es)
-- 🧬 Actualmente aprendiendo: **Bases de datos**, **Java** y **JavaScript**
-- ✨ Abierto a colaborar en proyectos desafiantes
+- 🏡 I live in **Ecuador**
+- ✉️ Contact: [sergio.gomeztr13@outlook.es](mailto:sergio.gomeztr13@outlook.es)
+- 🧬 Currently learning: **Databases**, **Java** and **JavaScript**
+- ✨ Open to collaborate on challenging projects
 
 ---
 
-## Tecnologías y Habilidades
+## Technologies and Skills
 
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" /></a>
@@ -37,62 +36,82 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="Node.js" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" /></a>
+<a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/threejs-colored.svg" width="40" height="40" alt="Three.js" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="Tailwind CSS" /></a>
 </p>
 
 ---
 
-## Estadísticas
+## Statistics
 
-<!-- Gráfico de lenguajes más usados --> <div align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sergio001g&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=6" alt="Lenguajes más usados"/> </div> <!-- Gráfico de contribuciones --> <div align="center"> <a href="https://github.com/sergio001g"> <img src="https://github-contribution-stats.vercel.app/api/?username=sergio001g&theme=radical&layout=compact" alt="Gráfico de Contribuciones"/> </a> </div> <!-- Gráfico de actividad --> <div align="center"> <a href="https://github.com/sergio001g"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergio001g&theme=radical&hide_border=true&bg_color=0D1117&color=F85D7F&line=A16AE8&point=FFFFFF&area=true&area_color=A16AE8" alt="Gráfico de Actividad"/> </a> </div>
+<!-- Most used languages chart --> 
+<div align="center"> 
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sergio001g&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=6" alt="Most used languages"/> 
+</div> 
+
+<!-- Contributions chart --> 
+<div align="center"> 
+  <a href="https://github.com/sergio001g"> 
+    <img src="https://github-contribution-stats.vercel.app/api/?username=sergio001g&theme=radical&layout=compact" alt="Contributions Chart"/> 
+  </a> 
+</div> 
+
+<!-- Activity chart --> 
+<div align="center"> 
+  <a href="https://github.com/sergio001g"> 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergio001g&theme=radical&hide_border=true&bg_color=0D1117&color=F85D7F&line=A16AE8&point=FFFFFF&area=true&area_color=A16AE8" alt="Activity Chart"/> 
+  </a> 
+</div>
+
 ---
 
-## Páginas Web
+## Websites
 
-- [Portafolio Personal](https://dignkez2f1epgwof.vercel.app/)
-- [Tienda Online](https://hdoljkop5rqznmbt.vercel.app/)
-- [Página de Paletas](https://rl6k9jtq1atw8ibi.vercel.app/)
+- [Personal Portfolio](https://dignkez2f1epgwof.vercel.app/)
+- [Online Store](https://hdoljkop5rqznmbt.vercel.app/)
+- [Palettes Page](https://rl6k9jtq1atw8ibi.vercel.app/)
 - [Sueldos.dev Ecuador](https://ti1tq7iw3zk2mawt.vercel.app/)
 
 ---
 
-## Proyectos Destacados
+## Featured Projects
 
 ### MonedasCambiador
-Un proyecto para simplificar los cambios de moneda. 💸
+A project to simplify currency exchanges. 💸
 
-- **Repositorio**: [MonedasCambiador](https://github.com/sergio001g/MonedasCambiador)
-
----
-
-### Quiz Cultura General
-Un proyecto interactivo usando JavaScript, CSS y TypeScript.
-
-- **Repositorio**: [preguntas ](https://github.com/sergio001g/preguntas.CSS-JS-TS)
+- **Repository**: [MonedasCambiador](https://github.com/sergio001g/MonedasCambiador)
 
 ---
 
-### Gráficos Estadísticos
-Generación de gráficos dinámicos con HTML, CSS y JavaScript.
+### General Knowledge Quiz
+An interactive project using JavaScript, CSS and TypeScript.
 
-- **Repositorio**: [Gráficos Estadísticos](https://github.com/sergio001g/Graficos-estadisticos)
-
----
-
-### Calculadora Básica
-Calculadora funcional utilizando tecnologías frontend.
-
-- **Repositorio**: [Calculadora](https://github.com/sergio001g/Calculadora-con-hoja-de-calculo-b-sico-)
+- **Repository**: [preguntas](https://github.com/sergio001g/preguntas.CSS-JS-TS)
 
 ---
 
-### Proyecto 3D
-Experimentando con visualizaciones en 3D usando Python.
+### Statistical Graphics
+Generation of dynamic charts with HTML, CSS and JavaScript.
 
-- **Repositorio**: [3D](https://github.com/sergio001g/3d)
+- **Repository**: [Statistical Graphics](https://github.com/sergio001g/Graficos-estadisticos)
 
 ---
 
-## Redes Sociales
+### Basic Calculator
+Functional calculator using frontend technologies.
+
+- **Repository**: [Calculator](https://github.com/sergio001g/Calculadora-con-hoja-de-calculo-b-sico-)
+
+---
+
+### 3D Project
+Experimenting with 3D visualizations using Python.
+
+- **Repository**: [3D](https://github.com/sergio001g/3d)
+
+---
+
+## Social Networks
 
 <p align="center">
 <a href="https://github.com/sergio001g" target="_blank" rel="noreferrer">
