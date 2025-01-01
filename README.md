@@ -43,7 +43,7 @@
 ## Estadísticas
 
 <a href="https://github.com/sergio001g">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001g&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001g&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&exclude_repo=github-readme-stats&hide=css,html" alt="Top Languages" />
 </a>
 
 ---
