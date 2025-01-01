@@ -69,7 +69,7 @@ Un proyecto para simplificar los cambios de moneda. 💸
 ### Quiz Cultura General
 Un proyecto interactivo usando JavaScript, CSS y TypeScript.
 
-- **Repositorio**: [preguntas TY, JS, CSS](https://github.com/sergio001g/preguntas.CSS-JS-TS)
+- **Repositorio**: [preguntas ](https://github.com/sergio001g/preguntas.CSS-JS-TS)
 
 ---
 
