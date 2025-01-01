@@ -8,6 +8,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600"/>
+</p>
+
+---
+
 - 🏡 Vivo en **Ecuador**
 - ✉️ Contacto: [sergio.gomeztr13@outlook.es](mailto:sergio.gomeztr13@outlook.es)
 - 🧬 Actualmente aprendiendo: **Bases de datos**, **Java** y **JavaScript**
