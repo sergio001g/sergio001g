@@ -1,4 +1,5 @@
 # Hola, soy Sergio Gómez
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sergio001g&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergio001g&theme=tokyonight" alt="Racha de GitHub" /> </p>
 
 ![MasterHead](https://wallpapercave.com/wp/wp9109383.jpg)
 
