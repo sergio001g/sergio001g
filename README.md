@@ -1,6 +1,6 @@
-![MasterHead](https://wallpapercave.com/wp/wp9109383.jpg)
+# Hola, soy Sergio Gómez
 
-# Hola, soy Sergio Gómez 
+![MasterHead](https://wallpapercave.com/wp/wp9109383.jpg)
 
 ### Desarrollador en formación 
 
@@ -40,7 +40,7 @@
 
 ---
 
-## Portafolio
+## Páginas Web
 
 - [Portafolio Personal](https://dignkez2f1epgwof.vercel.app/)
 - [Tienda Online](https://hdoljkop5rqznmbt.vercel.app/)
