@@ -9,7 +9,7 @@ Hello, I'm sergio001g, I'm just starting out in this world but I would like to w
 
 * 🌍  I'm based in ECUADOR
 * ✉️  You can contact me at [sergio.gomeztr13@outlook.es](mailto:sergio.gomeztr13@outlook.es)
-* 🧠  I’m learning about databases and advancing my skills in Java and JavaScript
+* 🧠  I’m learning about databases and advancing my skills in Java and JavaScripta
 * 🤝  I'm open to collaborating on big projects where I can learn more
 
 ### Skills
