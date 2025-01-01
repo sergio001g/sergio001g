@@ -1,5 +1,5 @@
 # Hola, soy Sergio Gómez
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sergio001g&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergio001g&theme=tokyonight" alt="Racha de GitHub" /> </p>
+
 
 ![MasterHead](https://wallpapercave.com/wp/wp9109383.jpg)
 
@@ -43,9 +43,7 @@
 
 ## Estadísticas
 
-<a href="https://github.com/sergio001g">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001g&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&exclude_repo=github-readme-stats&css=23&html=16" alt="Top Languages" />
-</a>
+<!-- Estadísticas de Contribución --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sergio001g&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/> </p> <!-- Gráfico de Lenguajes --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001g&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más usados"/> </p> <!-- Gráfico de Actividad --> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergio001g&theme=radical&hide_border=true&area=true" alt="Gráfico de Contribuciones"/> </p>
 
 ---
 
