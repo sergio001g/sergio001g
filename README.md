@@ -43,8 +43,7 @@
 
 ## Estadísticas
 
-<!-- Estadísticas de Contribución --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sergio001g&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/> </p> <!-- Gráfico de Lenguajes --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001g&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más usados"/> </p> <!-- Gráfico de Actividad --> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergio001g&theme=radical&hide_border=true&area=true" alt="Gráfico de Contribuciones"/> </p>
-
+<!-- Gráfico de lenguajes más usados --> <div align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sergio001g&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=6" alt="Lenguajes más usados"/> </div> <!-- Gráfico de contribuciones --> <div align="center"> <a href="https://github.com/sergio001g"> <img src="https://github-contribution-stats.vercel.app/api/?username=sergio001g&theme=radical&layout=compact" alt="Gráfico de Contribuciones"/> </a> </div> <!-- Gráfico de actividad --> <div align="center"> <a href="https://github.com/sergio001g"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergio001g&theme=radical&hide_border=true&bg_color=0D1117&color=F85D7F&line=A16AE8&point=FFFFFF&area=true&area_color=A16AE8" alt="Gráfico de Actividad"/> </a> </div>
 ---
 
 ## Páginas Web
