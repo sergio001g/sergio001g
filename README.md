@@ -1,4 +1,4 @@
-# Hello, I'm Sergio Gómez
+# Hello, I'm Sergio Gómeza
 
 ![MasterHead](https://wallpapercave.com/wp/wp9109383.jpg)
 
