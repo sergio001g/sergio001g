@@ -58,19 +58,19 @@
 
 ## Statistics
 
-<!-- Most used languages chart --> 
+ 
 <div align="center"> 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sergio001g&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=6" alt="Most used languages"/> 
 </div> 
 
-<!-- Contributions chart --> 
+
 <div align="center"> 
   <a href="https://github.com/sergio001g"> 
     <img src="https://github-contribution-stats.vercel.app/api/?username=sergio001g&theme=radical&layout=compact" alt="Contributions Chart"/> 
   </a> 
 </div> 
 
-<!-- Activity chart --> 
+
 <div align="center"> 
   <a href="https://github.com/sergio001g"> 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergio001g&theme=radical&hide_border=true&bg_color=0D1117&color=F85D7F&line=A16AE8&point=FFFFFF&area=true&area_color=A16AE8" alt="Activity Chart"/> 
@@ -85,7 +85,7 @@
 - [Online Store](https://hdoljkop5rqznmbt.vercel.app/)
 - [Palettes Page](https://rl6k9jtq1atw8ibi.vercel.app/)
 - [Sueldos.dev Ecuador](https://ti1tq7iw3zk2mawt.vercel.app/)
-- [Pagina de Juegos](https://v0-juegos-sergio-2d1blfdl1s3-a0iunuah6-sergio001gs-projects.vercel.app/)
+- [Pagina de Juegos](https://juegossergio001g-jzobr4p7k-sergio001gs-projects.vercel.app/)
 ---
 
 ## Featured Projects
