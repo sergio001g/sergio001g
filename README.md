@@ -85,7 +85,7 @@
 - [Online Store](https://hdoljkop5rqznmbt.vercel.app/)
 - [Palettes Page](https://rl6k9jtq1atw8ibi.vercel.app/)
 - [Sueldos.dev Ecuador](https://ti1tq7iw3zk2mawt.vercel.app/)
-- [Pagina de Juegos](https://d01m5he77iybay3u.vercel.app/)
+- [Pagina de Juegos](https://jweivypyimuaubex.vercel.app/)
 ---
 
 ## Featured Projects
