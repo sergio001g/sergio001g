@@ -135,3 +135,14 @@ Experimenting with 3D visualizations using Python.
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" alt="Instagram" />
 </a>
 </p>
+
+---
+
+## Cursos
+
+### curso java 
+- **Repository**: [Curso Java](https://github.com/sergio001g/curso-java)
+### curso ts
+- **Repository**: [Curso Ts](https://github.com/sergio001g/curso-ts)
+
+---
