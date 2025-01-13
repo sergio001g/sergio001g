@@ -1,6 +1,6 @@
 # Hello, I'm Sergio Gómez
 
-![MasterHead](https://wallpapercave.com/wp/wp9109383.jpg)a
+![MasterHead](https://wallpapercave.com/wp/wp9109383.jpg)
 
 ### Developer in training 
 
