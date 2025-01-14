@@ -125,6 +125,15 @@ Experimenting with 3D visualizations using Python.
 
 ---
 
+
+
+### Matrices PY
+Experimenting with Matrix visualizations using Python.
+
+- **Repository**: [Matrix](https://github.com/sergio001g/Calculadora-de-Matrices)
+
+---
+
 ## Social Networks
 
 <p align="center">
