@@ -1,7 +1,7 @@
 # Hello, I'm Sergio Gómez
 <div align="center">
-  <img alt="stats" style="width: 46%; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=ejmerino&show_icons=true&theme=tokyonight"/>
-  <img alt="top langs" style="width: 46%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejmerino&layout=compact&theme=tokyonight"/>
+  <img alt="stats" style="width: 46%; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=sergio001g&show_icons=true&theme=tokyonight"/>
+  <img alt="top langs" style="width: 46%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001g&layout=compact&theme=tokyonight"/>
 </div>
 ![MasterHead](https://wallpapercave.com/wp/wp9109383.jpg)
 
