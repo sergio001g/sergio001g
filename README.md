@@ -57,7 +57,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergio001g&theme=react-dark&bg_color=1E1E1E&color=4EC9B0&line=C586C0&point=CE9178&area=true&area_color=DCDCAA" alt="Activity Graph" />
 
-## 🌐 Portfolio & Projects
+## 🌐 Website
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
   <a href="https://dignkez2f1epgwof.vercel.app/" target="_blank" style="text-decoration: none;">
