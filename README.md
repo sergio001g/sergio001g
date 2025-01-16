@@ -83,9 +83,7 @@
   <a href="https://github.com/sergio001g/MonedasCambiador" target="_blank" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergio001g&repo=MonedasCambiador&theme=radical&bg_color=1E1E1E&title_color=4EC9B0&text_color=D4D4D4&icon_color=C586C0&border_color=2D2D2D" alt="MonedasCambiador" />
   </a>
-  <a href="https://github.com/sergio001g/preguntas.CSS-JS-TS" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergio001g&repo=preguntas.CSS-JS-TS&theme=radical&bg_color=1E1E1E&title_color=4EC9B0&text_color=D4D4D4&icon_color=C586C0&border_color=2D2D2D" alt="preguntas.CSS-JS-TS" />
-  </a>
+  
   <a href="https://github.com/sergio001g/Graficos-estadisticos" target="_blank" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergio001g&repo=Graficos-estadisticos&theme=radical&bg_color=1E1E1E&title_color=4EC9B0&text_color=D4D4D4&icon_color=C586C0&border_color=2D2D2D" alt="Graficos-estadisticos" />
   </a>
