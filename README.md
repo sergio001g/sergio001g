@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Sergio Gómez | Full Stack Developer
+# 🚀 Sergio Gómez | Full Stack Developer Training
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Developer+in+Training;Full+Stack+Developer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
