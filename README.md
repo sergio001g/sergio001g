@@ -128,62 +128,50 @@ I'm a passionate Full Stack Developer in training, constantly exploring new tech
 
 </div>
 
-## 🏆 Featured Projects
+<h2 align="center">🌐 Mi Portafolio y Recursos</h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; margin: 30px 0;">
+<p align="center">
+  Aquí puedes ver algunos de mis proyectos en línea, junto con herramientas que uso para diseño e investigación salarial como desarrollador.
+</p>
 
-<a href="https://github.com/sergio001g/MonedasCambiador" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <div style="background: rgba(13, 17, 23, 0.8); border: 1px solid #38BDF8; border-radius: 10px; overflow: hidden; transition: all 0.3s ease; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.2);">
-    <div style="background: linear-gradient(135deg, #38BDF8 0%, #818CF8 100%); padding: 15px; color: white; font-weight: bold; font-size: 18px;">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" />
-      Monedas Cambiador
-    </div>
-    <div style="padding: 15px; color: #E2E8F0;">
-      Currency converter application with real-time exchange rates and interactive interface.
-    </div>
-  </div>
-</a>
+<br/>
 
-<a href="https://github.com/sergio001g/Graficos-estadisticos" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <div style="background: rgba(13, 17, 23, 0.8); border: 1px solid #FB7185; border-radius: 10px; overflow: hidden; transition: all 0.3s ease; box-shadow: 0 4px 20px rgba(251, 113, 133, 0.2);">
-    <div style="background: linear-gradient(135deg, #FB7185 0%, #E879F9 100%); padding: 15px; color: white; font-weight: bold; font-size: 18px;">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" />
-      Gráficos Estadísticos
-    </div>
-    <div style="padding: 15px; color: #E2E8F0;">
-      Statistical visualization tool with interactive charts and data analysis features.
-    </div>
-  </div>
-</a>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      🎨<br/>
+      <strong>Paleta de Colores</strong><br/>
+      <a href="https://rl6k9jtq1atw8ibi.vercel.app/">
+        <img src="https://img.shields.io/badge/Paleta-Colores-%23f39c12?style=for-the-badge&logo=palette&logoColor=white" alt="Paleta de Colores"/>
+      </a><br/>
+      Estilo visual que uso en mis proyectos.
+    </td>
+    <td align="center">
+      💼<br/>
+      <strong>Portafolio</strong><br/>
+      <a href="https://mv1nmz2uvkatn4f6.vercel.app/">
+        <img src="https://img.shields.io/badge/Portafolio-Web-%2300a8e8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio Web"/>
+      </a><br/>
+      Proyectos y perfil como dev Full Stack.
+    </td>
+    <td align="center">
+      💰<br/>
+      <strong>Sueldos.dev</strong><br/>
+      <a href="https://ti1tq7iw3zk2mawt.vercel.app/">
+        <img src="https://img.shields.io/badge/Sueldos.dev-Explorar-%234caf50?style=for-the-badge&logo=money&logoColor=white" alt="Sueldos.dev"/>
+      </a><br/>
+      Consulta de salarios en tecnología.
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/sergio001g/Calculadora-con-hoja-de-calculo-b-sico-" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <div style="background: rgba(13, 17, 23, 0.8); border: 1px solid #A78BFA; border-radius: 10px; overflow: hidden; transition: all 0.3s ease; box-shadow: 0 4px 20px rgba(167, 139, 250, 0.2);">
-    <div style="background: linear-gradient(135deg, #A78BFA 0%, #818CF8 100%); padding: 15px; color: white; font-weight: bold; font-size: 18px;">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" />
-      Calculadora con Hoja de Cálculo
-    </div>
-    <div style="padding: 15px; color: #E2E8F0;">
-      Calculator with basic spreadsheet functionality for financial calculations.
-    </div>
-  </div>
-</a>
+<br/>
 
-<a href="https://github.com/sergio001g/3d" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <div style="background: rgba(13, 17, 23, 0.8); border: 1px solid #38BDF8; border-radius: 10px; overflow: hidden; transition: all 0.3s ease; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.2);">
-    <div style="background: linear-gradient(135deg, #38BDF8 0%, #818CF8 100%); padding: 15px; color: white; font-weight: bold; font-size: 18px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="25" height="25" style="vertical-align: middle; margin-right: 10px; filter: brightness(0) invert(1);" />
-      3D Visualization
-    </div>
-    <div style="padding: 15px; color: #E2E8F0;">
-      3D visualization project with interactive models and animations.
-    </div>
-  </div>
-</a>
+<p align="center">
+  🔗 Todos los proyectos están desplegados en <strong>Vercel</strong> para una experiencia rápida y profesional.
+</p>
 
-</div>
 
-🌐 Website
-PortfolioOnline StorePalettesSueldos.devGames Page
 ## 📊 GitHub Stats
 
 <div align="center">
