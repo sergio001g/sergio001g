@@ -26,37 +26,37 @@ I'm a passionate Full Stack Developer in training, constantly exploring new tech
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="65" height="65" />
       </a>
       <br>C#
     </td>
@@ -64,37 +64,37 @@ I'm a passionate Full Stack Developer in training, constantly exploring new tech
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="65" height="65" />
       </a>
       <br>Tailwind
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="65" height="65" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
       </a>
       <br>MongoDB
     </td>
@@ -107,19 +107,19 @@ I'm a passionate Full Stack Developer in training, constantly exploring new tech
   <tr>
     <td align="center" width="150">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" style="filter: drop-shadow(0 0 10px rgba(76, 175, 80, 0.6));" />
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" style="filter: drop-shadow(0 0 10px rgba(76, 175, 80, 0.6));" />
       </a>
       <br>Learning Databases
     </td>
     <td align="center" width="150">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" style="filter: drop-shadow(0 0 10px rgba(25, 118, 210, 0.6));" />
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" style="filter: drop-shadow(0 0 10px rgba(25, 118, 210, 0.6));" />
       </a>
       <br>Mastering Java
     </td>
     <td align="center" width="150">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="filter: drop-shadow(0 0 10px rgba(255, 214, 0, 0.6));" />
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" style="filter: drop-shadow(0 0 10px rgba(255, 214, 0, 0.6));" />
       </a>
       <br>Exploring JavaScript
     </td>
@@ -193,13 +193,13 @@ I'm a passionate Full Stack Developer in training, constantly exploring new tech
   <tr>
     <td align="center" width="150">
       <a href="https://github.com/sergio001g/curso-java" target="_blank" rel="noopener noreferrer">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" style="filter: drop-shadow(0 0 10px rgba(25, 118, 210, 0.6));" />
+        <img src="https://skillicons.dev/icons?i=java" width="65" height="65" style="filter: drop-shadow(0 0 10px rgba(25, 118, 210, 0.6));" />
       </a>
       <br>Java Course
     </td>
     <td align="center" width="150">
       <a href="https://github.com/sergio001g/curso-ts" target="_blank" rel="noopener noreferrer">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" style="filter: drop-shadow(0 0 10px rgba(0, 122, 204, 0.6));" />
+        <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" style="filter: drop-shadow(0 0 10px rgba(0, 122, 204, 0.6));" />
       </a>
       <br>TypeScript Course
     </td>
@@ -223,3 +223,4 @@ I'm a passionate Full Stack Developer in training, constantly exploring new tech
 <img src="https://komarev.com/ghpvc/?username=sergio001g&style=for-the-badge&color=38BDF8" alt="Profile Views" />
 
 </div>
+
