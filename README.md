@@ -131,7 +131,7 @@ I'm a passionate Full Stack Developer in training, constantly exploring new tech
 <h2 align="center">🌐 Mi Portafolio y Recursos</h2>
 
 <p align="center">
-  Aquí puedes ver algunos de mis proyectos en línea, junto con herramientas que uso para diseño e investigación salarial como desarrollador.
+  Aquí puedes ver algunos de mis proyectos desplegados.
 </p>
 
 <br/>
