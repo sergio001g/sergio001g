@@ -213,7 +213,7 @@ I'm a passionate Full Stack Developer in training, constantly exploring new tech
 <a href="https://github.com/sergio001g" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-Follow-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="http://www.instagram.com/gomezzzz__________" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/gomezzzz_________/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-Follow-FB7185?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="mailto:sergio.gomeztr13@outlook.es">
