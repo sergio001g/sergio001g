@@ -135,7 +135,7 @@
     </td>
     <td align="center" width="25%">
       <h3>💼 Portfolio</h3>
-      <a href="https://mv1nmz2uvkatn4f6.vercel.app/" target="_blank">
+      <a href="https://porta-phi.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/📁_Portfolio-Web_Dev-00A8E8?style=for-the-badge&logoColor=white" alt="Portfolio"/>
       </a>
       <br><br>
