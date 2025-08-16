@@ -130,6 +130,15 @@
 <div align="center">
 
 ### 🎯 Proyectos Destacados
+<td align="center" width="25%">
+  <h3>♟️ Chess Game</h3>
+  <a href="https://chess-tau-azure.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/♟️_Chess-Game-8E44AD?style=for-the-badge&logoColor=white" alt="Chess Game"/>
+  </a>
+  <br><br>
+  <em>Juego de ajedrez interactivo desplegado en Vercel</em>
+</td>
+
 
 <table width="100%">
   <tr>
