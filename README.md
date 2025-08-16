@@ -51,6 +51,10 @@
       <br>Tailwind CSS
     </td>
     <td align="center" width="100">
+      <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" /></a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="100">
       <a href="#"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" /></a>
       <br>HTML5
     </td>
@@ -67,6 +71,10 @@
     <td align="center" width="100">
       <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" /></a>
       <br>Node.js
+    </td>
+    <td align="center" width="100">
+      <a href="#"><img src="https://skillicons.dev/icons?i=django" width="50" height="50" /></a>
+      <br>Django
     </td>
     <td align="center" width="100">
       <a href="#"><img src="https://skillicons.dev/icons?i=py" width="50" height="50" /></a>
@@ -86,6 +94,8 @@
     </td>
   </tr>
 </table>
+
+
 
 ### 🗄️ Databases & Tools
 <table>
