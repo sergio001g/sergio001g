@@ -96,9 +96,9 @@
 <!-- 🔹 Snake Game -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergio001g/sergio001g/output/dist/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sergio001g/sergio001g/output/dist/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/sergio001g/sergio001g/output/dist/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergio001g/sergio001g/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sergio001g/sergio001g/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/sergio001g/sergio001g/output/snake.svg" />
   </picture>
 </p>
 
