@@ -1,15 +1,15 @@
 name: Generate Snake
 
 on:
-  schedule: # Corre cada 24 horas
-    - cron: "0 */24 * * *"
+  schedule: # Corre todos los días a medianoche
+    - cron: "0 0 * * *"
   workflow_dispatch: # Permite correr manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # 👈 muy importante
+      contents: write  # 👈 IMPORTANTE para poder hacer push
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -20,7 +20,7 @@ jobs:
           github_user_name: sergio001g
           outputs: dist/snake.svg
 
-      - name: Push to GitHub Pages
+      - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
