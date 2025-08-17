@@ -85,9 +85,22 @@
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sergio001g&theme=react&background=0D1117&stroke=38BDF8&ring=FB7185&fire=FB7185&currStreakNum=FFFFFF&sideNums=38BDF8&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=FFFFFF&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sergio001g&show_icons=true&theme=react&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&icon_color=FB7185&hide_border=true" />
+<br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio001g&layout=compact&theme=react&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=sergio001g&show_icons=true&theme=react&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&icon_color=FB7185&hide_border=true" />
+
+<img width="35%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sergio001g&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+<br><br>
+
+<!-- 🔹 Snake Game -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergio001g/sergio001g/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sergio001g/sergio001g/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/sergio001g/sergio001g/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 </div>
 
