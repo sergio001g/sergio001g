@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Sergio Gómez | Desarrollador Full Stack
+# 🚀 Sergio Gómez | Desarrollador Full Stac
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+🚀;Amante+de+Next.js+%26+React⚛️;Creando+Proyectos+con+Impacto🌍;Siempre+Aprendiendo+%26+Compartiendo📚)](https://git.io/typing-svg)
 
