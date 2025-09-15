@@ -104,15 +104,6 @@
 
 </div>
 
----
-
-## 🚀 Roadmap 2025
-
-- [ ] Profundizar en **Next.js + API Routes**
-- [ ] Certificación en **Java + Spring**
-- [ ] Dominar **Bases de Datos Avanzadas (SQL/NoSQL)**
-- [ ] Contribuir a proyectos **Open Source**
-- [ ] Lanzar mi propio **SaaS en Vercel**
 
 ---
 
