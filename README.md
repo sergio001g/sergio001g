@@ -30,39 +30,6 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-
-### 💻 Frontend
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![React](https://skillicons.dev/icons?i=react)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-
-### ⚙️ Backend & Lenguajes
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Django](https://skillicons.dev/icons?i=django)
-![Python](https://skillicons.dev/icons?i=py)
-![Java](https://skillicons.dev/icons?i=java)
-![C#](https://skillicons.dev/icons?i=cs)
-![C++](https://skillicons.dev/icons?i=cpp)
-
-### 🗄️ Bases de Datos & Herramientas
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Git](https://skillicons.dev/icons?i=git)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-
-</div>
-
----
-
 ## 🌐 Proyectos Destacados
 
 <div align="center">
