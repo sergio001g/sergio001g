@@ -36,11 +36,12 @@
 
 | Proyecto | Descripción | Link |
 |----------|-------------|------|
-| ♟️ **Chess Game** | Juego de ajedrez online desplegado en Vercel | [🔗 Ver Proyecto](https://chess-tau-azure.vercel.app/) |
-| 🎧 **DJ Bee** | Plataforma musical futurista interactiva | [🔗 Ver Proyecto](https://dj-bee11-sergio001gs-projects.vercel.app/) |
-| 💼 **Portafolio** | Mi showcase profesional | [🔗 Ver Proyecto](https://porta-phi.vercel.app/) |
-| 💰 **Sueldos.dev** | Explora salarios en el mundo tech | [🔗 Ver Proyecto](https://ti1tq7iw3zk2mawt.vercel.app/) |
-| 🎨 **Paleta de Colores** | Generador de esquemas de colores | [🔗 Ver Proyecto](https://rl6k9jtq1atw8ibi.vercel.app/) |
+| **Chess Game** | Juego de ajedrez online desplegado en Vercel | [🔗 Ver Proyecto](https://chess-tau-azure.vercel.app/) |
+| **DJ Bee** | Plataforma musical futurista interactiva | [🔗 Ver Proyecto](https://dj-bee11-sergio001gs-projects.vercel.app/) |
+| **Portafolio** | Mi showcase profesional | [🔗 Ver Proyecto](https://porta-phi.vercel.app/) |
+| **Sueldos.dev** | Explora salarios en el mundo tech | [🔗 Ver Proyecto](https://ti1tq7iw3zk2mawt.vercel.app/) |
+| **Paleta de Colores** | Generador de esquemas de colores | [🔗 Ver Proyecto](https://rl6k9jtq1atw8ibi.vercel.app/) |
+| **STASS** | Editor de imagen | [🔗 Ver Proyecto](https://stass-4zek.vercel.app/) |
 
 </div>
 
