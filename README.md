@@ -1,36 +1,36 @@
 <div align="center">
 
-# 🚀 Sergio Gómez | Desarrollador Full Stack
+# Sergio Gómez | Desarrollador Full Stack
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+🚀;Amante+de+Next.js+%26+React⚛️;Creando+Proyectos+con+Impacto🌍;Siempre+Aprendiendo+%26+Compartiendo📚)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+;Amante+de+Next.js+%26+React;Creando+Proyectos+con+Impacto;Siempre+Aprendiendo+%26+Compartiendo)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" style="border-radius: 50%; border: 4px solid #10B981; box-shadow: 0 0 30px rgba(16,185,129,0.6);" />
 
 <br><br>
 
 [![Estado](https://img.shields.io/badge/Estado-Abierto%20a%20Oportunidades-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergio001g)
-[![Ubicación](https://img.shields.io/badge/📍_Ecuador-FB7185?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Ecuador)
-[![Correo](https://img.shields.io/badge/📧_Contáctame-38BDF8?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sergio.gomeztr13@outlook.es)
+[![Ubicación](https://img.shields.io/badge/_Ecuador-FB7185?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Ecuador)
+[![Correo](https://img.shields.io/badge/_Contáctame-38BDF8?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sergio.gomeztr13@outlook.es)
 
 ---
 
-> *"Apasionado por el desarrollo, soñando con trabajar en proyectos que generen impacto junto a equipos increíbles 🌟"*
+> *"Apasionado por el desarrollo, soñando con trabajar en proyectos que generen impacto junto a equipos increíbles "*
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
-- 🎯 **Full Stack Developer en formación** de Ecuador  
-- ⚡ Especial enfoque en **React & Next.js**  
-- 🌐 Construyendo experiencias frontend fluidas y backends sólidos  
-- 🚀 Explorando nuevas tecnologías y frameworks constantemente  
-- 🤝 Abierto a colaborar en proyectos innovadores  
+-  **Full Stack Developer en formación** de Ecuador  
+-  Especial enfoque en **React & Next.js**  
+-  Construyendo experiencias frontend fluidas y backends sólidos  
+-  Explorando nuevas tecnologías y frameworks constantemente  
+-  Abierto a colaborar en proyectos innovadores  
 
 ---
 
-## 🌐 Proyectos Destacados
+##  Proyectos Destacados
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 <br><br>
 
-<!-- 🔹 Snake Game -->
+<!--  Snake Game -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergio001g/sergio001g/output/snake.svg" />
@@ -75,7 +75,7 @@
 
 ---
 
-## 🤝 ¡Conectemos!
+##  ¡Conectemos!
 
 <div align="center">
 
